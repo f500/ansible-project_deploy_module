@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: "Ramon de la Fuente"
-  description: DO NOT USE Module only role for testing purposes
+  description: Deploy_helper module for building (Capistrano like) deploy roles
   company: Future500
   license: LGPL
   min_ansible_version: 1.4
